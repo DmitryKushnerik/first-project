@@ -10,6 +10,5 @@
   <!-- Комментарий -->
   <p class="class1">Первый абзац.</p>
   <p class="class2">Второй абзац.</p>
-  <p class="class1">git clone</p>
  </body>
 </html>
